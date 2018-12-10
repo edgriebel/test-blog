@@ -86,14 +86,14 @@ repository: edgriebel/edgriebel.github.io
 plugins:
   - jekyll-feed
   - jekyll-sitemap # minimal-mistakes
-  - jekyll-include-cache # minimal-mistakes
+  # NOT SUPPORTED BY GHP?? - jekyll-include-cache # minimal-mistakes
   - jekyll-paginate # minimal-mistakes
   - jekyll-gist # minimal-mistakes
 
 whitelist: 
   - jekyll-feed
   - jekyll-sitemap # minimal-mistakes
-  - jekyll-include-cache # minimal-mistakes
+  # NOT SUPPORTED BY GHP??   - jekyll-include-cache # minimal-mistakes
   - jekyll-paginate # minimal-mistakes
   - jekyll-gist # minimal-mistakes
   

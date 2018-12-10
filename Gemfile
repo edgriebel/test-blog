@@ -12,7 +12,7 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
   gem "jekyll-gist"
   gem "jekyll-feed"
   gem "jemoji"
-  gem "jekyll-include-cache"
+  # gem "jekyll-include-cache" ## not supported by GHP?
   gem "jekyll-algolia"
 #end
 
