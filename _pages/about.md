@@ -3,7 +3,7 @@ title: About Me
 date: 2018-06-01
 # 2014-04-22T17:25:32+00:00
 # author: edgriebel
-layout: post
+layout: single
 author_profile: true
 # guid: http://www.edgriebel.com/?page_id=2
 permalink: /about/
