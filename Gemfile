@@ -6,6 +6,7 @@ gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!
+# most/all of these plugins are provided by github-pages
 #group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
@@ -13,7 +14,7 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
   gem "jekyll-feed"
   gem "jemoji"
   gem "jekyll-include-cache"
-  gem "jekyll-algolia"
+  # don't need search # gem "jekyll-algolia"
 #end
 
 gem "jekyll-remote-theme"
