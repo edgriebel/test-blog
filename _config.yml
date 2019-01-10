@@ -14,7 +14,7 @@ title: Java Gems
 url: http://edgriebel.com
 name: Java Gems
 ##  > # this means to ignore newlines until "baseurl:"
-description: Just another Jekyll site
+description: Just another Jekyll site - 20190110
 baseurl: "/"
 show_downloads: false
 
